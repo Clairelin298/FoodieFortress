@@ -67,7 +67,7 @@ if __name__ == '__main__':
 
             time.sleep(2)
             
-            food_type = take_pic()
+            # food_type = take_pic()
             food_type_synoposys = get_em9d_result()
 
             # 閃燈結束
