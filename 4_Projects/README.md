@@ -1,5 +1,6 @@
 # FoodieFortress
 <div align=center><img src=https://i.imgur.com/xT1Zhr4.png width="350px";></div>
+
 ## Introduction
 
 我們使用 ARC EM9D AIoT DK開發板進行食品的辨識，設計出 共享智慧冰箱 — FoodieFortress。不但可以記錄冰箱中每個食物的所有者，並在每次有人放入/拿取食品時，記錄時間、接觸對象以及食品資訊。
