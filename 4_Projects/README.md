@@ -1,5 +1,5 @@
 # FoodieFortress
-<center><img src=https://i.imgur.com/xT1Zhr4.png width="350px";></center>
+<div align=center><img src=https://i.imgur.com/xT1Zhr4.png width="350px";></div>
 ## Introduction
 
 我們使用 ARC EM9D AIoT DK開發板進行食品的辨識，設計出 共享智慧冰箱 — FoodieFortress。不但可以記錄冰箱中每個食物的所有者，並在每次有人放入/拿取食品時，記錄時間、接觸對象以及食品資訊。
@@ -62,4 +62,4 @@ FridgeLineBot為我們的User Interface，使用者可使用FridgeLineBot與系�
 1. 於FridgeLineBot對話框中按下「查看我的食物」或「查看即期食品」。
 2. Bot會根據按下的按鈕回應相對應的資訊。
 
-<center><img src="https://i.imgur.com/GoXH2x0.png" width="300px"></center>
+<div align=center><img src="https://i.imgur.com/GoXH2x0.png" width="300px"></div>
